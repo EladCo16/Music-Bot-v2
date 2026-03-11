@@ -3,10 +3,10 @@
   "owner":["389196537898598410"],
   "nodes":[
     {
-      "name":"v1",
-      "host":"lavalink2.botsuniversity.ml",
+      "name":"LavalinkV4",
+      "host":"lavalinkv4-hfx2.onrender.com",
       "port": 443,
-      "password": "mathiscool",
+      "password": "youshallnotpass",
       "secure": true
     }
   ]
