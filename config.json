@@ -3,11 +3,12 @@
   "owner":["389196537898598410"],
   "nodes":[
     {
-      "name":"LavalinkV4",
-      "host":"lavalinkv4-hfx2.onrender.com",
-      "port": 443,
+      "name":"main",
+      "host":"lavalink.jirayu.net",
+      "port": 13592,
       "password": "youshallnotpass",
-      "secure": true
+      "secure": false
     }
   ]
 }
+
